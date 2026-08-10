@@ -4,6 +4,10 @@
 
 Este documento conta como o projeto foi construído — não só o que ele faz, mas *por que* cada decisão foi tomada. Leia como um diário de engenharia: cada fase resolveu um problema real e preparou a próxima.
 
+
+https://imgur.com/0SheFpg
+
+
 | | |
 |---|---|
 | **35** serviços modelados | **~100** regras de validação |
